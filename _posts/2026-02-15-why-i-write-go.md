@@ -2,6 +2,9 @@
 layout: post
 title: "Why I Write Go"
 date: 2026-02-15
+description: "Why I chose Go for building CLI tools and distributed systems — simplicity, single binaries, and the joy of shipping software that just works."
+categories: [programming, golang]
+tags: [go, golang, cli-tools, distributed-systems, software-engineering]
 ---
 
 I didn't pick Go because it was trendy. I picked it because I was tired.

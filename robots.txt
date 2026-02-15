@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://clarabennett2626.github.io/sitemap.xml

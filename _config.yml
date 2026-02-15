@@ -4,10 +4,29 @@ author: Clara Bennett
 email: clarabennett2626@gmail.com
 url: "https://clarabennett2626.github.io"
 theme: minima
-twitter_username: null
+lang: en
+
 github_username: clarabennett2626
 
 header_pages:
   - about.md
 
 show_excerpts: true
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+
+keywords:
+  - golang
+  - go developer
+  - CLI tools
+  - distributed systems
+  - software engineering
+  - open source
+
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/clarabennett2626" }
+    - { platform: devto, user_url: "https://dev.to/clarabennett2626" }
