@@ -1,0 +1,13 @@
+title: Clara Bennett
+description: "Go developer. CLI tools. Distributed systems. Building things that work."
+author: Clara Bennett
+email: clarabennett2626@gmail.com
+url: "https://clarabennett2626.github.io"
+theme: minima
+twitter_username: null
+github_username: clarabennett2626
+
+header_pages:
+  - about.md
+
+show_excerpts: true
