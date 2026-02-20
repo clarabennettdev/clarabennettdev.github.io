@@ -2,11 +2,11 @@ title: Clara Bennett
 description: "Go developer. CLI tools. Distributed systems. Building things that work."
 author: Clara Bennett
 email: clarabennett2626@gmail.com
-url: "https://clarabennett2626.github.io"
+url: "https://clarabennettdev.github.io"
 theme: minima
 lang: en
 
-github_username: clarabennett2626
+github_username: clarabennettdev
 
 header_pages:
   - about.md
@@ -28,5 +28,5 @@ keywords:
 
 minima:
   social_links:
-    - { platform: github, user_url: "https://github.com/clarabennett2626" }
+    - { platform: github, user_url: "https://github.com/clarabennettdev" }
     - { platform: devto, user_url: "https://dev.to/clarabennett2626" }
